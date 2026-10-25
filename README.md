@@ -19,4 +19,4 @@ I bridge the gap between complex data and strategic business decisions. By lever
 - **Interactive Visualization:** Crafting dynamic dashboards for stakeholders and decision-makers.
 - **Process Optimization:** Solving operational and business bottlenecks using analytical frameworks.
 
-📫 **Let's connect:** [Your LinkedIn Profile Link]
+📫 **Let's connect:** [LinkedIn Profile](https://www.linkedin.com/in/alireza-khanjari-b146ba38/)
